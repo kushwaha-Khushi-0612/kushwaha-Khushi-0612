@@ -1,7 +1,7 @@
 # ✨ Khushi Kushwaha — *Full-Stack Technologist \& Cybersecurity Buff*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7871F&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+R.+R.+Maheshwar;Java+Guru+%7C+Python+Enthusiast+%7C+Web+Designer;Cybersecurity+Buff+%7C+Innovation+Pioneer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7871F&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Khushi+Kushwaha;Java+Guru+%7C+Python+Enthusiast+%7C+Web+Designer;Cybersecurity+Buff+%7C+Innovation+Pioneer" alt="Typing SVG">
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kushwaha-Khushi-0612&theme=radical&no-frame=true&title=Commits,Repositories,Followers,Stars" alt="Profile Trophy"/>
