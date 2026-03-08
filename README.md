@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=kushwaha-Khushi-0612&theme=radical&no-frame=true&title=Commits,Repositories,Followers,Stars" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=kushwaha-Khushi-0612&theme=radical&no-frame=true&title=Commits,Repositories,Followers,Stars" style="max-width:100%;" />
 </div>
 
 ## 🚀 About Me
